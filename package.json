@@ -1,0 +1,22 @@
+{
+  "name": "Basic bot",
+  "version": "2.1.0",
+  "description": "Not have other to keep a bot online",
+  "main": "basic.js",
+  "scripts": {
+    "start": "node basic.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "discord.js": "12.3.1",
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "github",
+    "express"
+  ]
+}
