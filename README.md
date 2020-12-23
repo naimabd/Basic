@@ -3,4 +3,4 @@
 
 ## REZX BOT
 [INVITE LINK](https://discord.com/oauth2/authorize?client_id=695590510558969857&permissions=805861566&scope=bot).    
-[SUPPORT SERVER](https://discord.gg/FmGgUW4).
+[SUPPORT SERVER](https://discord.com/invite/RcCP4hFaFR).
